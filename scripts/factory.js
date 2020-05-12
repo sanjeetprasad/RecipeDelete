@@ -9,4 +9,4 @@ export default recipe => `
         <button id="deleteRecipe--${recipe.id}">
             Delete Recipe
         </button>
-    </section>
+    </section>`
